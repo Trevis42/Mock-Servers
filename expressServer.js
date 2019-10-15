@@ -9,7 +9,7 @@ const quoteDb = [
 	"Courage is grace under pressure.",
 	"If you are not willing to risk the usual, you will have to settle for the ordinary.",
 	"Learn from yesterday, live for today, hope for tomorrow. The important thing is not to stop questioning.",
-	"Take up one idea. Make that one idea your life -- think of it, dream of it, live on that idea. Let the brain, muscles, nerves, every part of your body be full of that idea, and just leave every other idea alone. This is the way to success.",
+	"If at first you don't succeed, skydiving is not for you.",
 	"Sometimes you can't see yourself clearly until you see yourself through the eyes of others.",
 	"All our dreams can come true if we have the courage to pursue them.",
 	"It does not matter how slowly you go, so long as you do not stop.",
@@ -17,7 +17,7 @@ const quoteDb = [
 	"Someone is sitting in the shade today because someone planted a tree a long time ago.",
 	"Whenever you see a successful person, you only see the public glories, never the private sacrifices to reach them.",
 	"Don't cry because it's over, smile because it happened.",
-	"Success? I don't know what that word means. I'm happy. But success, that goes back to what in somebody's eyes success means. For me, success is inner peace. That's a good day for me.",
+	"Eagles may soar, but weasels don't get sucked into jet engines.",
 	"You only live once, but if you do it right, once is enough.",
 	"Opportunities don't happen. You create them."
 ];
